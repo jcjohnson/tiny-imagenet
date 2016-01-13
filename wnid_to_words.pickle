@@ -1,0 +1,1372 @@
+(dp1
+S'n02124075'
+p2
+(lp3
+S'Egyptian cat'
+p4
+asS'n04067472'
+p5
+(lp6
+S'reel'
+p7
+asS'n04540053'
+p8
+(lp9
+S'volleyball'
+p10
+asS'n01945685'
+p11
+(lp12
+S'slug'
+p13
+asS'n02395406'
+p14
+(lp15
+S'hog'
+p16
+aS'pig'
+p17
+aS'grunter'
+p18
+aS'squealer'
+p19
+aS'Sus scrofa'
+p20
+asS'n02125311'
+p21
+(lp22
+S'cougar'
+p23
+aS'puma'
+p24
+aS'catamount'
+p25
+aS'mountain lion'
+p26
+aS'painter'
+p27
+aS'panther'
+p28
+aS'Felis concolor'
+p29
+asS'n03126707'
+p30
+(lp31
+S'crane'
+p32
+asS'n04486054'
+p33
+(lp34
+S'triumphal arch'
+p35
+asS'n04099969'
+p36
+(lp37
+S'rocking chair'
+p38
+aS'rocker'
+p39
+asS'n04532106'
+p40
+(lp41
+S'vestment'
+p42
+asS'n02268443'
+p43
+(lp44
+S'dragonfly'
+p45
+aS'darning needle'
+p46
+aS"devil's darning needle"
+p47
+aS'sewing needle'
+p48
+aS'snake feeder'
+p49
+aS'snake doctor'
+p50
+aS'mosquito hawk'
+p51
+aS'skeeter hawk'
+p52
+asS'n02977058'
+p53
+(lp54
+S'cash machine'
+p55
+aS'cash dispenser'
+p56
+aS'automated teller machine'
+p57
+aS'automatic teller machine'
+p58
+aS'automated teller'
+p59
+aS'automatic teller'
+p60
+aS'ATM'
+p61
+asS'n01641577'
+p62
+(lp63
+S'bullfrog'
+p64
+aS'Rana catesbeiana'
+p65
+asS'n07734744'
+p66
+(lp67
+S'mushroom'
+p68
+asS'n02802426'
+p69
+(lp70
+S'basketball'
+p71
+asS'n09246464'
+p72
+(lp73
+S'cliff'
+p74
+aS'drop'
+p75
+aS'drop-off'
+p76
+asS'n03599486'
+p77
+(lp78
+S'jinrikisha'
+p79
+aS'ricksha'
+p80
+aS'rickshaw'
+p81
+asS'n07920052'
+p82
+(lp83
+S'espresso'
+p84
+asS'n03970156'
+p85
+(lp86
+S'plunger'
+p87
+aS"plumber's helper"
+p88
+asS'n03042490'
+p89
+(lp90
+S'cliff dwelling'
+p91
+asS'n04562935'
+p92
+(lp93
+S'water tower'
+p94
+asS'n03014705'
+p95
+(lp96
+S'chest'
+p97
+asS'n04251144'
+p98
+(lp99
+S'snorkel'
+p100
+asS'n03976657'
+p101
+(lp102
+S'pole'
+p103
+asS'n02106662'
+p104
+(lp105
+S'German shepherd'
+p106
+aS'German shepherd dog'
+p107
+aS'German police dog'
+p108
+aS'alsatian'
+p109
+asS'n02190166'
+p110
+(lp111
+S'fly'
+p112
+asS'n03201208'
+p113
+(lp114
+S'dining table'
+p115
+aS'board'
+p116
+asS'n02279972'
+p117
+(lp118
+S'monarch'
+p119
+aS'monarch butterfly'
+p120
+aS'milkweed butterfly'
+p121
+aS'Danaus plexippus'
+p122
+asS'n02002724'
+p123
+(lp124
+S'black stork'
+p125
+aS'Ciconia nigra'
+p126
+asS'n04265275'
+p127
+(lp128
+S'space heater'
+p129
+asS'n02132136'
+p130
+(lp131
+S'brown bear'
+p132
+aS'bruin'
+p133
+aS'Ursus arctos'
+p134
+asS'n07747607'
+p135
+(lp136
+S'orange'
+p137
+asS'n02074367'
+p138
+(lp139
+S'dugong'
+p140
+aS'Dugong dugon'
+p141
+asS'n04285008'
+p142
+(lp143
+S'sports car'
+p144
+aS'sport car'
+p145
+asS'n04146614'
+p146
+(lp147
+S'school bus'
+p148
+asS'n04560804'
+p149
+(lp150
+S'water jug'
+p151
+asS'n07720875'
+p152
+(lp153
+S'bell pepper'
+p154
+asS'n07873807'
+p155
+(lp156
+S'pizza'
+p157
+aS'pizza pie'
+p158
+asS'n02364673'
+p159
+(lp160
+S'guinea pig'
+p161
+aS'Cavia cobaya'
+p162
+asS'n04366367'
+p163
+(lp164
+S'suspension bridge'
+p165
+asS'n04507155'
+p166
+(lp167
+S'umbrella'
+p168
+asS'n02403003'
+p169
+(lp170
+S'ox'
+p171
+asS'n07615774'
+p172
+(lp173
+S'ice lolly'
+p174
+aS'lolly'
+p175
+aS'lollipop'
+p176
+aS'popsicle'
+p177
+asS'n04501370'
+p178
+(lp179
+S'turnstile'
+p180
+asS'n03854065'
+p181
+(lp182
+S'organ'
+p183
+aS'pipe organ'
+p184
+asS'n04328186'
+p185
+(lp186
+S'stopwatch'
+p187
+aS'stop watch'
+p188
+asS'n02906734'
+p189
+(lp190
+S'broom'
+p191
+asS'n01770393'
+p192
+(lp193
+S'scorpion'
+p194
+asS'n03838899'
+p195
+(lp196
+S'oboe'
+p197
+aS'hautboy'
+p198
+aS'hautbois'
+p199
+asS'n04597913'
+p200
+(lp201
+S'wooden spoon'
+p202
+asS'n03930313'
+p203
+(lp204
+S'picket fence'
+p205
+aS'paling'
+p206
+asS'n04118538'
+p207
+(lp208
+S'rugby ball'
+p209
+asS'n03733131'
+p210
+(lp211
+S'maypole'
+p212
+asS'n01443537'
+p213
+(lp214
+S'goldfish'
+p215
+aS'Carassius auratus'
+p216
+asS'n04179913'
+p217
+(lp218
+S'sewing machine'
+p219
+asS'n07875152'
+p220
+(lp221
+S'potpie'
+p222
+asS'n03544143'
+p223
+(lp224
+S'hourglass'
+p225
+asS'n09428293'
+p226
+(lp227
+S'seashore'
+p228
+aS'coast'
+p229
+aS'seacoast'
+p230
+aS'sea-coast'
+p231
+asS'n04311004'
+p232
+(lp233
+S'steel arch bridge'
+p234
+asS'n02123394'
+p235
+(lp236
+S'Persian cat'
+p237
+asS'n04070727'
+p238
+(lp239
+S'refrigerator'
+p240
+aS'icebox'
+p241
+asS'n03085013'
+p242
+(lp243
+S'computer keyboard'
+p244
+aS'keypad'
+p245
+asS'n02437312'
+p246
+(lp247
+S'Arabian camel'
+p248
+aS'dromedary'
+p249
+aS'Camelus dromedarius'
+p250
+asS'n02793495'
+p251
+(lp252
+S'barn'
+p253
+asS'n02730930'
+p254
+(lp255
+S'apron'
+p256
+asS'n02094433'
+p257
+(lp258
+S'Yorkshire terrier'
+p259
+asS'n02963159'
+p260
+(lp261
+S'cardigan'
+p262
+asS'n01910747'
+p263
+(lp264
+S'jellyfish'
+p265
+asS'n04371430'
+p266
+(lp267
+S'swimming trunks'
+p268
+aS'bathing trunks'
+p269
+asS'n07749582'
+p270
+(lp271
+S'lemon'
+p272
+asS'n03649909'
+p273
+(lp274
+S'lawn mower'
+p275
+aS'mower'
+p276
+asS'n04417672'
+p277
+(lp278
+S'thatch'
+p279
+aS'thatched roof'
+p280
+asS'n03388043'
+p281
+(lp282
+S'fountain'
+p283
+asS'n01774384'
+p284
+(lp285
+S'black widow'
+p286
+aS'Latrodectus mactans'
+p287
+asS'n01944390'
+p288
+(lp289
+S'snail'
+p290
+asS'n09256479'
+p291
+(lp292
+S'coral reef'
+p293
+asS'n02837789'
+p294
+(lp295
+S'bikini'
+p296
+aS'two-piece'
+p297
+asS'n07579787'
+p298
+(lp299
+S'plate'
+p300
+asS'n01983481'
+p301
+(lp302
+S'American lobster'
+p303
+aS'Northern lobster'
+p304
+aS'Maine lobster'
+p305
+aS'Homarus americanus'
+p306
+asS'n04399382'
+p307
+(lp308
+S'teddy'
+p309
+aS'teddy bear'
+p310
+asS'n04275548'
+p311
+(lp312
+S'spider web'
+p313
+aS"spider's web"
+p314
+asS'n02791270'
+p315
+(lp316
+S'barbershop'
+p317
+asS'n01698640'
+p318
+(lp319
+S'American alligator'
+p320
+aS'Alligator mississipiensis'
+p321
+asS'n02321529'
+p322
+(lp323
+S'sea cucumber'
+p324
+aS'holothurian'
+p325
+asS'n02769748'
+p326
+(lp327
+S'backpack'
+p328
+aS'back pack'
+p329
+aS'knapsack'
+p330
+aS'packsack'
+p331
+aS'rucksack'
+p332
+aS'haversack'
+p333
+asS'n03089624'
+p334
+(lp335
+S'confectionery'
+p336
+aS'confectionary'
+p337
+aS'candy store'
+p338
+asS'n02099712'
+p339
+(lp340
+S'Labrador retriever'
+p341
+asS'n07695742'
+p342
+(lp343
+S'pretzel'
+p344
+asS'n02056570'
+p345
+(lp346
+S'king penguin'
+p347
+aS'Aptenodytes patagonica'
+p348
+asS'n02281406'
+p349
+(lp350
+S'sulphur butterfly'
+p351
+aS'sulfur butterfly'
+p352
+asS'n01774750'
+p353
+(lp354
+S'tarantula'
+p355
+asS'n02814533'
+p356
+(lp357
+S'beach wagon'
+p358
+aS'station wagon'
+p359
+aS'wagon'
+p360
+aS'estate car'
+p361
+aS'beach waggon'
+p362
+aS'station waggon'
+p363
+aS'waggon'
+p364
+asS'n03983396'
+p365
+(lp366
+S'pop bottle'
+p367
+aS'soda bottle'
+p368
+asS'n07753592'
+p369
+(lp370
+S'banana'
+p371
+asS'n04149813'
+p372
+(lp373
+S'scoreboard'
+p374
+asS'n04254777'
+p375
+(lp376
+S'sock'
+p377
+asS'n02233338'
+p378
+(lp379
+S'cockroach'
+p380
+aS'roach'
+p381
+asS'n04008634'
+p382
+(lp383
+S'projectile'
+p384
+aS'missile'
+p385
+asS'n02823428'
+p386
+(lp387
+S'beer bottle'
+p388
+asS'n03400231'
+p389
+(lp390
+S'frying pan'
+p391
+aS'frypan'
+p392
+aS'skillet'
+p393
+asS'n02841315'
+p394
+(lp395
+S'binoculars'
+p396
+aS'field glasses'
+p397
+aS'opera glasses'
+p398
+asS'n03393912'
+p399
+(lp400
+S'freight car'
+p401
+asS'n03355925'
+p402
+(lp403
+S'flagpole'
+p404
+aS'flagstaff'
+p405
+asS'n07583066'
+p406
+(lp407
+S'guacamole'
+p408
+asS'n04074963'
+p409
+(lp410
+S'remote control'
+p411
+aS'remote'
+p412
+asS'n01629819'
+p413
+(lp414
+S'European fire salamander'
+p415
+aS'Salamandra salamandra'
+p416
+asS'n02795169'
+p417
+(lp418
+S'barrel'
+p419
+aS'cask'
+p420
+asS'n09332890'
+p421
+(lp422
+S'lakeside'
+p423
+aS'lakeshore'
+p424
+asS'n02481823'
+p425
+(lp426
+S'chimpanzee'
+p427
+aS'chimp'
+p428
+aS'Pan troglodytes'
+p429
+asS'n04487081'
+p430
+(lp431
+S'trolleybus'
+p432
+aS'trolley coach'
+p433
+aS'trackless trolley'
+p434
+asS'n03250847'
+p435
+(lp436
+S'drumstick'
+p437
+asS'n03255030'
+p438
+(lp439
+S'dumbbell'
+p440
+asS'n03902125'
+p441
+(lp442
+S'pay-phone'
+p443
+aS'pay-station'
+p444
+asS'n02892201'
+p445
+(lp446
+S'brass'
+p447
+aS'memorial tablet'
+p448
+aS'plaque'
+p449
+asS'n03404251'
+p450
+(lp451
+S'fur coat'
+p452
+asS'n02883205'
+p453
+(lp454
+S'bow tie'
+p455
+aS'bow-tie'
+p456
+aS'bowtie'
+p457
+asS'n03100240'
+p458
+(lp459
+S'convertible'
+p460
+asS'n09193705'
+p461
+(lp462
+S'alp'
+p463
+asS'n03637318'
+p464
+(lp465
+S'lampshade'
+p466
+aS'lamp shade'
+p467
+asS'n02480495'
+p468
+(lp469
+S'orangutan'
+p470
+aS'orang'
+p471
+aS'orangutang'
+p472
+aS'Pongo pygmaeus'
+p473
+asS'n03891332'
+p474
+(lp475
+S'parking meter'
+p476
+asS'n02927161'
+p477
+(lp478
+S'butcher shop'
+p479
+aS'meat market'
+p480
+asS'n04456115'
+p481
+(lp482
+S'torch'
+p483
+asS'n02058221'
+p484
+(lp485
+S'albatross'
+p486
+aS'mollymawk'
+p487
+asS'n02666196'
+p488
+(lp489
+S'abacus'
+p490
+asS'n02415577'
+p491
+(lp492
+S'bighorn'
+p493
+aS'bighorn sheep'
+p494
+aS'cimarron'
+p495
+aS'Rocky Mountain bighorn'
+p496
+aS'Rocky Mountain sheep'
+p497
+aS'Ovis canadensis'
+p498
+asS'n03796401'
+p499
+(lp500
+S'moving van'
+p501
+asS'n04133789'
+p502
+(lp503
+S'sandal'
+p504
+asS'n03444034'
+p505
+(lp506
+S'go-kart'
+p507
+asS'n01917289'
+p508
+(lp509
+S'brain coral'
+p510
+asS'n01950731'
+p511
+(lp512
+S'sea slug'
+p513
+aS'nudibranch'
+p514
+asS'n02123045'
+p515
+(lp516
+S'tabby'
+p517
+aS'tabby cat'
+p518
+asS'n01855672'
+p519
+(lp520
+S'goose'
+p521
+asS'n01984695'
+p522
+(lp523
+S'spiny lobster'
+p524
+aS'langouste'
+p525
+aS'rock lobster'
+p526
+aS'crawfish'
+p527
+aS'crayfish'
+p528
+aS'sea crawfish'
+p529
+asS'n07711569'
+p530
+(lp531
+S'mashed potato'
+p532
+asS'n04532670'
+p533
+(lp534
+S'viaduct'
+p535
+asS'n02486410'
+p536
+(lp537
+S'baboon'
+p538
+asS'n01882714'
+p539
+(lp540
+S'koala'
+p541
+aS'koala bear'
+p542
+aS'kangaroo bear'
+p543
+aS'native bear'
+p544
+aS'Phascolarctos cinereus'
+p545
+asS'n03763968'
+p546
+(lp547
+S'military uniform'
+p548
+asS'n07768694'
+p549
+(lp550
+S'pomegranate'
+p551
+asS'n02999410'
+p552
+(lp553
+S'chain'
+p554
+asS'n03617480'
+p555
+(lp556
+S'kimono'
+p557
+asS'n02917067'
+p558
+(lp559
+S'bullet train'
+p560
+aS'bullet'
+p561
+asS'n02988304'
+p562
+(lp563
+S'CD player'
+p564
+asS'n06596364'
+p565
+(lp566
+S'comic book'
+p567
+asS'n01768244'
+p568
+(lp569
+S'trilobite'
+p570
+asS'n02410509'
+p571
+(lp572
+S'bison'
+p573
+asS'n04356056'
+p574
+(lp575
+S'sunglasses'
+p576
+aS'dark glasses'
+p577
+aS'shades'
+p578
+asS'n01742172'
+p579
+(lp580
+S'boa constrictor'
+p581
+aS'Constrictor constrictor'
+p582
+asS'n07614500'
+p583
+(lp584
+S'ice cream'
+p585
+aS'icecream'
+p586
+asS'n03980874'
+p587
+(lp588
+S'poncho'
+p589
+asS'n03804744'
+p590
+(lp591
+S'nail'
+p592
+asS'n02808440'
+p593
+(lp594
+S'bathtub'
+p595
+aS'bathing tub'
+p596
+aS'bath'
+p597
+aS'tub'
+p598
+asS'n04398044'
+p599
+(lp600
+S'teapot'
+p601
+asS'n03670208'
+p602
+(lp603
+S'limousine'
+p604
+aS'limo'
+p605
+asS'n02843684'
+p606
+(lp607
+S'birdhouse'
+p608
+asS'n02423022'
+p609
+(lp610
+S'gazelle'
+p611
+asS'n02669723'
+p612
+(lp613
+S'academic gown'
+p614
+aS'academic robe'
+p615
+aS"judge's robe"
+p616
+asS'n04465501'
+p617
+(lp618
+S'tractor'
+p619
+asS'n02226429'
+p620
+(lp621
+S'grasshopper'
+p622
+aS'hopper'
+p623
+asS'n02165456'
+p624
+(lp625
+S'ladybug'
+p626
+aS'ladybeetle'
+p627
+aS'lady beetle'
+p628
+aS'ladybird'
+p629
+aS'ladybird beetle'
+p630
+asS'n02231487'
+p631
+(lp632
+S'walking stick'
+p633
+aS'walkingstick'
+p634
+aS'stick insect'
+p635
+asS'n02085620'
+p636
+(lp637
+S'Chihuahua'
+p638
+asS'n03662601'
+p639
+(lp640
+S'lifeboat'
+p641
+asS'n02129165'
+p642
+(lp643
+S'lion'
+p644
+aS'king of beasts'
+p645
+aS'Panthera leo'
+p646
+asS'n02099601'
+p647
+(lp648
+S'golden retriever'
+p649
+asS'n02699494'
+p650
+(lp651
+S'altar'
+p652
+asS'n03837869'
+p653
+(lp654
+S'obelisk'
+p655
+asS'n02815834'
+p656
+(lp657
+S'beaker'
+p658
+asS'n02950826'
+p659
+(lp660
+S'cannon'
+p661
+asS'n02788148'
+p662
+(lp663
+S'bannister'
+p664
+aS'banister'
+p665
+aS'balustrade'
+p666
+aS'balusters'
+p667
+aS'handrail'
+p668
+asS'n02909870'
+p669
+(lp670
+S'bucket'
+p671
+aS'pail'
+p672
+asS'n03814639'
+p673
+(lp674
+S'neck brace'
+p675
+asS'n03706229'
+p676
+(lp677
+S'magnetic compass'
+p678
+asS'n07871810'
+p679
+(lp680
+S'meat loaf'
+p681
+aS'meatloaf'
+p682
+asS'n04259630'
+p683
+(lp684
+S'sombrero'
+p685
+asS'n02509815'
+p686
+(lp687
+S'lesser panda'
+p688
+aS'red panda'
+p689
+aS'panda'
+p690
+aS'bear cat'
+p691
+aS'cat bear'
+p692
+aS'Ailurus fulgens'
+p693
+asS'n03424325'
+p694
+(lp695
+S'gasmask'
+p696
+aS'respirator'
+p697
+aS'gas helmet'
+p698
+asS'n02948072'
+p699
+(lp700
+S'candle'
+p701
+aS'taper'
+p702
+aS'wax light'
+p703
+asS'n03179701'
+p704
+(lp705
+S'desk'
+p706
+asS'n02236044'
+p707
+(lp708
+S'mantis'
+p709
+aS'mantid'
+p710
+asS'n02206856'
+p711
+(lp712
+S'bee'
+p713
+asS'n03160309'
+p714
+(lp715
+S'dam'
+p716
+aS'dike'
+p717
+aS'dyke'
+p718
+asS'n03026506'
+p719
+(lp720
+S'Christmas stocking'
+p721
+asS'n03447447'
+p722
+(lp723
+S'gondola'
+p724
+asS'n02113799'
+p725
+(lp726
+S'standard poodle'
+p727
+asS'n03977966'
+p728
+(lp729
+S'police van'
+p730
+aS'police wagon'
+p731
+aS'paddy wagon'
+p732
+aS'patrol wagon'
+p733
+aS'wagon'
+p734
+aS'black Maria'
+p735
+asS'n03584254'
+p736
+(lp737
+S'iPod'
+p738
+asS'n12267677'
+p739
+(lp740
+S'acorn'
+p741
+asS'n04023962'
+p742
+(lp743
+S'punching bag'
+p744
+aS'punch bag'
+p745
+aS'punching ball'
+p746
+aS'punchball'
+p747
+asS'n02814860'
+p748
+(lp749
+S'beacon'
+p750
+aS'lighthouse'
+p751
+aS'beacon light'
+p752
+aS'pharos'
+p753
+asS'n01644900'
+p754
+(lp755
+S'tailed frog'
+p756
+aS'bell toad'
+p757
+aS'ribbed toad'
+p758
+aS'tailed toad'
+p759
+aS'Ascaphus trui'
+p760
+asS'n04596742'
+p761
+(lp762
+S'wok'
+p763
+asS'n03992509'
+p764
+(lp765
+S"potter's wheel"
+p766
+asS'n03770439'
+p767
+(lp768
+S'miniskirt'
+p769
+aS'mini'
+p770
+asS'n01784675'
+p771
+(lp772
+S'centipede'
+p773
+asS'n04376876'
+p774
+(lp775
+S'syringe'
+p776
+asS'n03937543'
+p777
+(lp778
+S'pill bottle'
+p779
+asS'n07715103'
+p780
+(lp781
+S'cauliflower'
+p782
+asS'n02504458'
+p783
+(lp784
+S'African elephant'
+p785
+aS'Loxodonta africana'
+p786
+as.
